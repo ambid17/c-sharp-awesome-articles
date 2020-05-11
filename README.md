@@ -9,3 +9,7 @@ A collection of awesome and useful C# articles
 
 ## Language Features
 - Base class extension methods: https://weblogs.asp.net/scottgu/new-orcas-language-feature-extension-methods
+
+## ASP.NET
+- MVC basics: https://www.youtube.com/watch?v=y0iyLwBrmRE
+- Tim Corey: https://www.youtube.com/user/IAmTimCorey/playlists
