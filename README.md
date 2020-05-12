@@ -13,3 +13,4 @@ A collection of awesome and useful C# articles
 ## ASP.NET
 - MVC basics: https://www.youtube.com/watch?v=y0iyLwBrmRE
 - Tim Corey: https://www.youtube.com/user/IAmTimCorey/playlists
+- API setup: https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-3.1&tabs=visual-studio
